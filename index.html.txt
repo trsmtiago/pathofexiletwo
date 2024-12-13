@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia Detalhado para Bruxa de Caos (Occultist) - Path of Exile 2</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Guia Detalhado para Bruxa de Caos (Occultist) com Magias em Path of Exile 2</h1>
+        </header>
+
+        <section class="overview">
+            <h2>Visão Geral</h2>
+            <p>A Bruxa Occultist focada em caos é uma build poderosa baseada em habilidades de dano ao longo do tempo (<em>Damage over Time</em> - DoT) e sinergia com maldições. Este guia cobre habilidades, passivas, equipamentos, gemas e estratégias de progressão.</p>
+        </section>
+
+        <section class="ascendancy">
+            <h2>Ascendência: Occultist</h2>
+            <ul>
+                <li>Regeneração de energia com <em>Wicked Ward</em> e <em>Vile Bastion</em>.</li>
+                <li>Amplificação de maldições com <em>Malediction</em>.</li>
+                <li>Potencial para acúmulo de "Withered", aumentando o dano caótico.</li>
+            </ul>
+            <p>Recomenda-se priorizar os nós:</p>
+            <ol>
+                <li><strong>Profane Bloom:</strong> Detona inimigos amaldiçoados ao morrerem, aumentando a limpeza de mapas.</li>
+                <li><strong>Malediction:</strong> Permite mais maldições e reduz o dano dos inimigos.</li>
+                <li><strong>Void Beacon:</strong> Reduz resistência caótica dos inimigos.</li>
+                <li><strong>Withering Presence:</strong> Proporciona dano adicional de caos e resistência elemental.</li>
+            </ol>
+        </section>
+
+        <section class="skills">
+            <h2>Habilidades Principais</h2>
+            <h3>1. Essence Drain:</h3>
+            <p>Habilidade principal para dano ao longo do tempo. Lembre-se de combinar com <strong>Contagion</strong> para propagar o efeito.</p>
+            <p><strong>Links recomendados:</strong> Essence Drain + Void Manipulation + Swift Affliction + Controlled Destruction + Efficacy + Empower (Lv. 3 ou superior).</p>
+
+            <h3>2. Contagion:</h3>
+            <p>Propaga o dano de <strong>Essence Drain</strong> em área.</p>
+            <p><strong>Links recomendados:</strong> Contagion + Increased Area of Effect + Arcane Surge.</p>
+
+            <h3>3. Bane:</h3>
+            <p>Habilidade que aplica maldições em área e causa dano.</p>
+            <p><strong>Links recomendados:</strong> Bane + Despair + Enfeeble + Temporal Chains.</p>
+
+            <h3>4. Wither (Totem):</h3>
+            <p>Usado para amplificar dano de caos com <em>Withered</em> stacks.</p>
+            <p><strong>Links recomendados:</strong> Wither + Spell Totem + Faster Casting + Multiple Totems.</p>
+        </section>
+
+        <section class="passive-tree">
+            <h2>Arvore de Passivas</h2>
+            <p><strong>Priorize:</strong></p>
+            <ul>
+                <li>Nós de dano de caos e dano ao longo do tempo.</li>
+                <li>Nós de reserva de mana para suportar ações e auras.</li>
+                <li>Nós de escudo de energia (<em>Energy Shield</em> - ES) para maior sobrevivência.</li>
+            </ul>
+            <p><strong>Cluster Jewels:</strong></p>
+            <ul>
+                <li><em>Potency of Will</em> (Dano DoT adicional).</li>
+                <li><em>Unwavering Evil</em> (Dano de caos e aplicação de Withered).</li>
+                <li><em>Wicked Pall</em> (Melhora DoT de caos).</li>
+            </ul>
+        </section>
+
+        <section class="equipment">
+            <h2>Equipamentos</h2>
+            <h3>Arma:</h3>
+            <ul>
+                <li>Cetro ou varinha com:</li>
+                <ul>
+                    <li>+% ao dano de caos.</li>
+                    <li>+1 a gemas de caos ou suporte.</li>
+                    <li>Chance de aplicar Withered ao acertar.</li>
+                </ul>
+            </ul>
+
+            <h3>Escudo:</h3>
+            <ul>
+                <li>Altos valores de <em>Energy Shield</em>.</li>
+                <li>Resistências.</li>
+            </ul>
+
+            <h3>Armadura:</h3>
+            <ul>
+                <li><em>Shavronne's Wrappings</em> (se usar a aura <em>Low Life</em> com "Pain Attunement").</li>
+                <li>Alternativamente: Armaduras com alta taxa de ES.</li>
+            </ul>
+
+            <h3>Amuleto:</h3>
+            <ul>
+                <li><em>Presence of Chayula</em> (Imunidade a atordoamento e conversão de vida em ES).</li>
+            </ul>
+
+            <h3>Anéis e Cintos:</h3>
+            <ul>
+                <li>Resistências.</li>
+                <li>Regeneração de energia ou dano de caos.</li>
+                <li><em>Bated Breath</em> é uma opção inicial.</li>
+            </ul>
+        </section>
+
+        <section class="auras-buffs">
+            <h2>Auras e Buffs</h2>
+            <p><strong>Malevolence:</strong> Aumenta o dano DoT.</p>
+            <p><strong>Discipline:</strong> Incrementa <em>Energy Shield</em>.</p>
+            <p><strong>Tempest Shield:</strong> Proteção contra choque.</p>
+            <p>Use "Arrogance Support" para ativar em <em>Low Life</em>, se aplicável.</p>
+        </section>
+
+        <section class="progression">
+            <h2>Progressão do Jogo</h2>
+            <h3>Níveis Iniciais:</h3>
+            <p>Use <strong>Freezing Pulse</strong> ou <strong>Fireball</strong> até desbloquear <strong>Essence Drain</strong> e <strong>Contagion</strong> (normalmente no ato 3).</p>
+
+            <h3>Níveis Intermediários:</h3>
+            <p>Priorize equipamentos que aumentem resistências e mana. Invista em <em>Life Regeneration</em> até que "Energy Shield" seja suficiente.</p>
+
+            <h3>Endgame:</h3>
+            <p>Complemente seu build com Cluster Jewels e equipamento otimizados. Ajuste resistências para enfrentar mapas e chefes específicos.</p>
+        </section>
+
+        <section class="boss-strategy">
+            <h2>Mapa e Chefe</h2>
+            <p><strong>Contra grupos:</strong> Propague <strong>Essence Drain</strong> com <strong>Contagion</strong>.</p>
+            <p><strong>Contra chefes:</strong> Estabeleça totens de "Wither" e aplique <strong>Bane</strong> e <strong>Essence Drain</strong>.</p>
+        </section>
+
+        <section class="conclusion">
+            <h2>Conclusão</h2>
+            <p>Esta build combina um estilo de jogo estratégico e controle. Com boa progressão de equipamentos e passivas, você será capaz de lidar com mapas, chefes e conteúdo de endgame. Experimente ajustar o setup conforme o seu estilo de jogo para maximizar a eficácia!</p>
+        </section>
+    </div>
+</body>
+</html>
